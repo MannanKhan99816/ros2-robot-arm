@@ -1,0 +1,1 @@
+Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/diseq1/ros2_ws/src/ros2-tutorials/rclcpp/wait_set -DCMAKE_INSTALL_PREFIX=/home/diseq1/ros2_ws/install/examples_rclcpp_wait_set

@@ -1,0 +1,4 @@
+Invoking command in '/home/diseq1/ros2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/urdf_tutorial -- -j32 -l32
+Invoked command in '/home/diseq1/ros2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/urdf_tutorial -- -j32 -l32
+Invoking command in '/home/diseq1/ros2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/urdf_tutorial
+Invoked command in '/home/diseq1/ros2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/urdf_tutorial

@@ -1,0 +1,6 @@
+Invoking command in '/home/diseq1/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/diseq1/ros2_ws/src/my_package -DCMAKE_INSTALL_PREFIX=/home/diseq1/ros2_ws/install/my_package
+Invoked command in '/home/diseq1/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/diseq1/ros2_ws/src/my_package -DCMAKE_INSTALL_PREFIX=/home/diseq1/ros2_ws/install/my_package
+Invoking command in '/home/diseq1/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/my_package -- -j32 -l32
+Invoked command in '/home/diseq1/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/my_package -- -j32 -l32
+Invoking command in '/home/diseq1/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/my_package
+Invoked command in '/home/diseq1/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/my_package

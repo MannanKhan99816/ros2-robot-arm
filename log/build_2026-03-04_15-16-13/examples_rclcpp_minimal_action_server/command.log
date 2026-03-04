@@ -1,0 +1,1 @@
+Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/diseq1/ros2_ws/src/ros2-tutorials/rclcpp/actions/minimal_action_server -DCMAKE_INSTALL_PREFIX=/home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server

@@ -1,0 +1,21 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/diseq1/ros2_ws/build/geometry_tutorials
+-- Install configuration: ""
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/ament_index/resource_index/package_run_dependencies/geometry_tutorials
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/ament_index/resource_index/parent_prefix_path/geometry_tutorials
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/environment/ament_prefix_path.sh
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/environment/ament_prefix_path.dsv
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/environment/path.sh
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/environment/path.dsv
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/local_setup.bash
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/local_setup.sh
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/local_setup.zsh
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/local_setup.dsv
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/package.dsv
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/ament_index/resource_index/packages/geometry_tutorials
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/cmake/geometry_tutorialsConfig.cmake
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/cmake/geometry_tutorialsConfig-version.cmake
+-- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/package.xml
