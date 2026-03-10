@@ -1,0 +1,20 @@
+[2.825s] Invoking command in '/home/diseq1/ros2_ws/build/geometry_tutorials': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/geometry_tutorials -- -j32 -l32
+[3.740s] Invoked command in '/home/diseq1/ros2_ws/build/geometry_tutorials' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/geometry_tutorials -- -j32 -l32
+[3.746s] Invoking command in '/home/diseq1/ros2_ws/build/geometry_tutorials': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/geometry_tutorials
+[3.781s] -- Install configuration: ""
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/ament_index/resource_index/package_run_dependencies/geometry_tutorials
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/ament_index/resource_index/parent_prefix_path/geometry_tutorials
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/environment/ament_prefix_path.sh
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/environment/ament_prefix_path.dsv
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/environment/path.sh
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/environment/path.dsv
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/local_setup.bash
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/local_setup.sh
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/local_setup.zsh
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/local_setup.dsv
+[3.781s] -- Installing: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/package.dsv
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/ament_index/resource_index/packages/geometry_tutorials
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/cmake/geometry_tutorialsConfig.cmake
+[3.781s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/cmake/geometry_tutorialsConfig-version.cmake
+[3.782s] -- Up-to-date: /home/diseq1/ros2_ws/install/geometry_tutorials/share/geometry_tutorials/package.xml
+[3.865s] Invoked command in '/home/diseq1/ros2_ws/build/geometry_tutorials' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/geometry_tutorials

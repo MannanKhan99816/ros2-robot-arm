@@ -1,0 +1,25 @@
+[0.077s] Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service -- -j32 -l32
+[3.571s] [ 50%] [32mBuilding CXX object CMakeFiles/service_main.dir/main.cpp.o[0m
+[4.898s] [100%] [32m[1mLinking CXX executable service_main[0m
+[5.353s] [100%] Built target service_main
+[5.385s] Invoked command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service -- -j32 -l32
+[5.391s] Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service
+[5.394s] -- Install configuration: ""
+[5.394s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/lib/examples_rclcpp_minimal_service/service_main
+[5.394s] -- Set runtime path of "/home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/lib/examples_rclcpp_minimal_service/service_main" to ""
+[5.395s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_service
+[5.395s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_service
+[5.399s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/ament_prefix_path.sh
+[5.399s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/ament_prefix_path.dsv
+[5.399s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/path.sh
+[5.400s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/environment/path.dsv
+[5.401s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.bash
+[5.401s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.sh
+[5.403s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.zsh
+[5.403s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/local_setup.dsv
+[5.404s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/package.dsv
+[5.405s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/ament_index/resource_index/packages/examples_rclcpp_minimal_service
+[5.405s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/cmake/examples_rclcpp_minimal_serviceConfig.cmake
+[5.405s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/cmake/examples_rclcpp_minimal_serviceConfig-version.cmake
+[5.406s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_service/share/examples_rclcpp_minimal_service/package.xml
+[5.406s] Invoked command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service

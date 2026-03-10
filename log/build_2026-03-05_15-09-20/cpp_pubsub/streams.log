@@ -1,0 +1,7 @@
+[0.069s] Invoking command in '/home/diseq1/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/cpp_pubsub -- -j32 -l32
+[3.570s] [ 25%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[3.570s] [ 50%] [32mBuilding CXX object CMakeFiles/listener.dir/src/subscriber_member_function.cpp.o[0m
+[6.719s] [ 75%] [32m[1mLinking CXX executable talker[0m
+[7.246s] [ 75%] Built target talker
+[9.861s] [100%] [32m[1mLinking CXX executable listener[0m
+[10.253s] [100%] Built target listener

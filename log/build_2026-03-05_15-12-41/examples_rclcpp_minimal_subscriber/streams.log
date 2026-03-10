@@ -1,0 +1,35 @@
+[0.100s] Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_subscriber': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/diseq1/ros2_ws/install/turtle_tf2_py:/home/diseq1/ros2_ws/install/launch_testing_examples:/home/diseq1/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/diseq1/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/diseq1/ros2_ws/install/examples_rclpy_minimal_service:/home/diseq1/ros2_ws/install/examples_rclpy_minimal_publisher:/home/diseq1/ros2_ws/install/examples_rclpy_minimal_client:/home/diseq1/ros2_ws/install/examples_rclpy_minimal_action_server:/home/diseq1/ros2_ws/install/examples_rclpy_minimal_action_client:/home/diseq1/ros2_ws/install/examples_rclpy_guard_conditions:/home/diseq1/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake /home/diseq1/ros2_ws/src/ros2-tutorials/rclcpp/topics/minimal_subscriber -DCMAKE_INSTALL_PREFIX=/home/diseq1/ros2_ws/install/examples_rclcpp_minimal_subscriber
+[1.598s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.598s] -- Found rclcpp: 16.0.17 (/opt/ros/humble/share/rclcpp/cmake)
+[1.598s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.598s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.598s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.598s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.598s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.598s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.599s] -- Found rmw_fastrtps_cpp: 6.2.9 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.159s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.182s] -- Found rclcpp_components: 16.0.17 (/opt/ros/humble/share/rclcpp_components/cmake)
+[3.194s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.234s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.234s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.234s] -- Configured cppcheck include dirs: 
+[3.234s] -- Configured cppcheck exclude dirs and/or files: 
+[3.234s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.234s] -- Configured cpplint exclude dirs and/or files: 
+[3.235s] -- Added test 'lint_cmake' to check CMake code style
+[3.235s] -- Added test 'uncrustify' to check C / C++ code style
+[3.235s] -- Configured uncrustify additional arguments: 
+[3.235s] -- Added test 'xmllint' to check XML markup files
+[3.235s] -- Configuring done
+[3.237s] [31mCMake Error at CMakeLists.txt:22 (add_executable):
+[3.237s]   Cannot find source file:
+[3.237s] 
+[3.237s]     member_function.cpp
+[3.237s] 
+[3.237s] [0m
+[3.238s] [31mCMake Error at CMakeLists.txt:22 (add_executable):
+[3.238s]   No SOURCES given to target: subscriber_member_function
+[3.238s] 
+[3.238s] [0m
+[3.238s] [0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m

@@ -1,0 +1,4 @@
+[0.082s] Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j32 -l32
+[3.576s] [ 50%] [32mBuilding CXX object CMakeFiles/multithreaded_executor.dir/multithreaded_executor.cpp.o[0m
+[10.142s] [100%] [32m[1mLinking CXX executable multithreaded_executor[0m
+[10.552s] [100%] Built target multithreaded_executor

@@ -1,6 +1,9 @@
 /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch.py
+/home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/r2d2_robot.urdf
 /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/02-two-link.urdf
 /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/01-simple-link.urdf
+/home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/robot_arm.urdf
+/home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/r2d2_auto.urdf
 /home/diseq1/ros2_ws/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
 /home/diseq1/ros2_ws/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
 /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh

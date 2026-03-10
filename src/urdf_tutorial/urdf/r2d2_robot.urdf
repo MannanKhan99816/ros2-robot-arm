@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<robot name="r2d2_robot">
+
+  <!-- AXIS -->
+  <link name="axis">
+    <visual>
+      <geometry>
+        <cylinder radius="0.01" length="0.5"/>
+      </geometry>
+      <material name="gray">
+        <color rgba="0.6 0.6 0.6 1"/>
+      </material>
+    </visual>
+  </link>
+
+  <!-- LEG1 -->
+  <link name="leg1">
+    <visual>
+      <geometry>
+        <box size="0.20 0.10 0.8"/>
+      </geometry>
+      <material name="blue">
+        <color rgba="0 0 1 1"/>
+      </material>
+    </visual>
+  </link>
+
+  <!-- LEG2 -->
+  <link name="leg2">
+    <visual>
+      <geometry>
+        <box size="0.20 0.10 0.8"/>
+      </geometry>
+      <material name="blue"/>
+    </visual>
+  </link>
+
+  <!-- BODY -->
+  <link name="body">
+    <visual>
+      <geometry>
+        <cylinder radius="0.2" length="0.6"/>
+      </geometry>
+      <material name="white">
+        <color rgba="1 1 1 1"/>
+      </material>
+    </visual>
+  </link>
+
+  <!-- HEAD -->
+  <link name="head">
+    <visual>
+      <geometry>
+        <sphere radius="0.4"/>
+      </geometry>
+      <material name="silver">
+        <color rgba="0.8 0.8 0.8 1"/>
+      </material>
+    </visual>
+  </link>
+
+  <!-- ROD -->
+  <link name="rod">
+    <visual>
+      <geometry>
+        <cylinder radius="0.02" length="0.2"/>
+      </geometry>
+      <material name="black">
+        <color rgba="0 0 0 1"/>
+      </material>
+    </visual>
+  </link>
+
+  <!-- BOX -->
+  <link name="box">
+    <visual>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+      <material name="red">
+        <color rgba="1 0 0 1"/>
+      </material>
+    </visual>
+  </link>
+
+
+  <!-- JOINTS -->
+
+  <joint name="leg1connect" type="fixed">
+    <parent link="axis"/>
+    <child link="leg1"/>
+    <origin xyz="0.2 0 0"/>
+  </joint>
+
+  <joint name="leg2connect" type="fixed">
+    <parent link="axis"/>
+    <child link="leg2"/>
+    <origin xyz="-0.2 0 0"/>
+  </joint>
+
+  <joint name="tilt" type="fixed">
+    <parent link="axis"/>
+    <child link="body"/>
+    <origin xyz="0 0 0.4"/>
+  </joint>
+
+  <joint name="swivel" type="continuous">
+    <parent link="body"/>
+    <child link="head"/>
+    <origin xyz="0 0 0.4"/>
+    <axis xyz="0 0 1"/>
+  </joint>
+
+  <joint name="periscope" type="prismatic">
+    <parent link="head"/>
+    <child link="rod"/>
+    <origin xyz="0 0 0.4"/>
+    <axis xyz="0 0 1"/>
+    <limit lower="0" upper="0.2" effort="10" velocity="1"/>
+  </joint>
+
+  <joint name="boxconnect" type="fixed">
+    <parent link="rod"/>
+    <child link="box"/>
+    <origin xyz="0 0 0.15"/>
+  </joint>
+
+</robot>

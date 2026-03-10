@@ -1,0 +1,35 @@
+[0.070s] Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j32 -l32
+[3.567s] [ 16%] [32mBuilding CXX object CMakeFiles/action_server_member_functions.dir/member_functions.cpp.o[0m
+[3.568s] [ 50%] [32mBuilding CXX object CMakeFiles/action_server_single_goal.dir/single_goal.cpp.o[0m
+[3.568s] [ 50%] [32mBuilding CXX object CMakeFiles/action_server_not_composable.dir/not_composable.cpp.o[0m
+[5.543s] [ 66%] [32m[1mLinking CXX executable action_server_not_composable[0m
+[6.069s] [ 83%] [32m[1mLinking CXX executable action_server_single_goal[0m
+[6.115s] [100%] [32m[1mLinking CXX executable action_server_member_functions[0m
+[6.136s] [100%] Built target action_server_not_composable
+[6.796s] [100%] Built target action_server_member_functions
+[6.885s] [100%] Built target action_server_single_goal
+[6.898s] Invoked command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server -- -j32 -l32
+[6.899s] Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server
+[6.907s] -- Install configuration: ""
+[6.910s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_not_composable
+[6.910s] -- Set runtime path of "/home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_not_composable" to ""
+[6.910s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_member_functions
+[6.911s] -- Set runtime path of "/home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_member_functions" to ""
+[6.911s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_single_goal
+[6.912s] -- Set runtime path of "/home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/lib/examples_rclcpp_minimal_action_server/action_server_single_goal" to ""
+[6.913s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_server
+[6.913s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_server
+[6.913s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/ament_prefix_path.sh
+[6.914s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/ament_prefix_path.dsv
+[6.914s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/path.sh
+[6.914s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/environment/path.dsv
+[6.915s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.bash
+[6.915s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.sh
+[6.916s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.zsh
+[6.917s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/local_setup.dsv
+[6.919s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/package.dsv
+[6.919s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_server
+[6.919s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/cmake/examples_rclcpp_minimal_action_serverConfig.cmake
+[6.919s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/cmake/examples_rclcpp_minimal_action_serverConfig-version.cmake
+[6.921s] -- Installing: /home/diseq1/ros2_ws/install/examples_rclcpp_minimal_action_server/share/examples_rclcpp_minimal_action_server/package.xml
+[6.929s] Invoked command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_action_server

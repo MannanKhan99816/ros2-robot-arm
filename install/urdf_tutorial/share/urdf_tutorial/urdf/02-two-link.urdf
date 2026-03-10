@@ -9,14 +9,12 @@
     <color rgba="0 0.8 0 1"/>
   </material>
 
-  <link name="world"/>
-
   <link name="base_link">
     <visual>
       <geometry>
-        <cylinder radius="0.2" length="0.4"/>
+        <cylinder radius="0.6" length="0.2"/>
       </geometry>
-      <origin xyz="0 0 0.2" rpy="0 0 0"/>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
       <material name="blue"/>
     </visual>
   </link>
@@ -24,24 +22,20 @@
   <link name="link1">
     <visual>
       <geometry>
-        <box size="0.1 0.1 0.6"/>
+        <box size="0.6 0.6 0.1"/>
       </geometry>
-      <origin xyz="0 0 0.3" rpy="0 0 0"/>
+      <origin xyz="0.3 0 0" rpy="0 0 0"/>
       <material name="green"/>
     </visual>
   </link>
 
-  <joint name="world_to_base" type="fixed">
-    <parent link="world"/>
-    <child link="base_link"/>
-  </joint>
 
   <joint name="base_to_link1" type="revolute">
     <parent link="base_link"/>
     <child link="link1"/>
     <origin xyz="0 0 0.4" rpy="0 0 0"/>
     <axis xyz="0 0 1"/>
-    <limit lower="-3.14" upper="3.14" effort="1" velocity="1"/>
+    <limit lower="-3.14" upper="3.14" effort="10" velocity="1"/>
   </joint>
 
 </robot>

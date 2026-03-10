@@ -1,0 +1,28 @@
+[3.502s] Invoking command in '/home/diseq1/ros2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/urdf_tutorial -- -j32 -l32
+[3.788s] Invoked command in '/home/diseq1/ros2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/urdf_tutorial -- -j32 -l32
+[3.789s] Invoking command in '/home/diseq1/ros2_ws/build/urdf_tutorial': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/urdf_tutorial
+[3.802s] -- Install configuration: ""
+[3.805s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/launch
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch.py
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf
+[3.806s] -- Installing: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/r2d2_robot.urdf
+[3.806s] -- Installing: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/02-two-link.urdf
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/01-simple-link.urdf
+[3.806s] -- Installing: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/robot_arm.urdf
+[3.806s] -- Installing: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/urdf/r2d2_auto.urdf
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.dsv
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.sh
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/environment/path.dsv
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.bash
+[3.806s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.sh
+[3.807s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.zsh
+[3.807s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/local_setup.dsv
+[3.807s] -- Installing: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/package.dsv
+[3.807s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/ament_index/resource_index/packages/urdf_tutorial
+[3.807s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake
+[3.807s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+[3.807s] -- Up-to-date: /home/diseq1/ros2_ws/install/urdf_tutorial/share/urdf_tutorial/package.xml
+[3.901s] Invoked command in '/home/diseq1/ros2_ws/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/urdf_tutorial
