@@ -1,1 +1,0 @@
-Invoking command in '/home/diseq1/ros2_ws/build/cpp_pubsub': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/cpp_pubsub -- -j32 -l32

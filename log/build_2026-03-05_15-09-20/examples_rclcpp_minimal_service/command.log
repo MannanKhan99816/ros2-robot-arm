@@ -1,4 +1,0 @@
-Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service -- -j32 -l32
-Invoked command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service -- -j32 -l32
-Invoking command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service
-Invoked command in '/home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/diseq1/ros2_ws/build/examples_rclcpp_minimal_service
